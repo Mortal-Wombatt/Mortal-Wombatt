@@ -1,3 +1,4 @@
+- ⌨️ **NOT A VIBE CODER** I learnt to code the hard way... by copying other peoples code from stack exchange
 - 👋 Hi, I’m @Mortal-Wombatt. I'm an Aussie originally from the outback with no qualifications or experience and I basically just fumble around with computers and stuff
 - 👀 I’m interested in machine learning and generative AI, desktop GUI applications, database development and long walks on the beach
 - 🐍 I mainly code in python and I'm a champ at VB. I have some experience with C#, Javascript and Lua
